@@ -1,0 +1,38 @@
+/* Navbar Styling */
+.dashboard-navbar {
+    background-color: #004ba0;
+    padding: 10px 20px;
+    box-shadow: 0 2px 10px rgba(0, 0, 0, 0.1);
+    position: sticky;
+    top: 0;
+    z-index: 1020;
+}
+
+
+.nav-link {
+    font-size: 1rem;
+    color: white;
+    font-weight: 500;
+    margin-right: 15px;
+    transition: color 0.3s ease;
+}
+
+.nav-link:hover {
+    color: #ffd700;
+
+}
+
+
+.logout-button {
+    background-color: #ffd700;
+    color: #004ba0;
+    font-weight: bold;
+    border: 1px solid #ffd700;
+    transition: all 0.3s ease;
+}
+
+.logout-button:hover {
+    background-color: #004ba0;
+    color: #ffd700;
+    border-color: #004ba0;
+}
