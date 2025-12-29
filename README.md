@@ -24,7 +24,6 @@
 | Database         | MongoDB (with Mongoose)     |
 | Realtime Data    | WebSocket / REST API        |
 | Map Integration  | Leaflet.js / Google Maps API |
-| Deployment       | (Optional) Render / Vercel / Heroku |
 
 ---
 
